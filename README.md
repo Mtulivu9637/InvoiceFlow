@@ -55,7 +55,7 @@ Follow these instructions to get a local copy up and running for development and
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/invoiceflow.git
+    git clone https://github.com/Mtulivu9637/invoiceflow.git
     cd invoiceflow
     ```
 
