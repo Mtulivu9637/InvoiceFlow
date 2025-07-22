@@ -8,7 +8,7 @@
   <p align="center">
     A comprehensive Freelance Invoice & Contract Automation Tool built with Next.js and AI.
     <br />
-    <a href="/dashboard"><strong>Explore the app »</strong></a>
+   
   </p>
 </div>
 
