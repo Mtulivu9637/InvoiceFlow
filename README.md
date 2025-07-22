@@ -14,7 +14,6 @@
 
 ---
 
-![InvoiceFlow Dashboard Screenshot](https://placehold.co/1200x600.png)
 <img width="1347" height="633" alt="image" src="https://github.com/user-attachments/assets/69c38078-7a9c-4742-8a94-5e0f41c16aa2" />
 *<p align="center">A placeholder image of the main dashboard. Replace with a real screenshot.</p>*
 
